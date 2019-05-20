@@ -9,9 +9,6 @@ Dependencies:
 - tensorflow
 - sklearn
 
-Dataset:
-https://www.microsoft.com/en-us/download/details.aspx?id=54765&fbclid=IwAR0DuT6Ur60Tn8K1qNpVk2tpeyF8_8JuK9FnWIe4HcvsV1GwAGP23Jqi_0U
-(I noticed that two pictures were corrupted when I downloaded it, one from dogs and one from cats)
 
 I divided them like this:
 3000 cat pictures and 3000 dog pictures in the test folder
